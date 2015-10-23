@@ -1,3 +1,5 @@
+NOTE: Please see "EH_Code_readme.txt" for updates to Salis work done by Evan Henrich, summer 2015
+
 This is a software implementation of the Ribosome Binding Site (RBS) Calculator.
 
 The RBS Calculator can predict the translation initiation rate of a protein coding sequence in bacteria. It can also design synthetic ribosome binding site sequences to rationally control the protein expression level. It combines a thermodynamic model of ribosome and mRNA interactions with a sequence optimization algorithm. The RBS Calculator was developed by Howard Salis and Chris Voigt at UC San Francisco.
